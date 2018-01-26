@@ -1,0 +1,134 @@
+body{
+  font-family: 'Barlow Semi Condensed blod', sans-serif;
+  color : white;
+}
+
+header{
+  background-image: url('images/bg-images-header.jpg');
+  min-height: 60vh ;
+  background-repeat: no-repeat;
+  background-position: top center ;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-attachment: fixed;
+
+
+
+
+
+
+
+}
+
+section{
+
+}
+
+.header-content-block{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.header-content-block h2 {
+  color: white;
+  font-size: 20px;
+
+}
+
+.header-content-block h1 {
+font-size: 4em ;
+
+}
+.header-content-block p {
+  font-size: 15px;
+  width: 250px;
+}
+#bio h1 {
+    font-size: 25px;
+    font-family: 'Barlow Semi Condensed extra bold', sans-serif;
+    margin-left: 5em;
+    margin-bottom: 1em;
+
+
+
+
+
+}
+
+.bio-content-block p {
+
+ width: 500px;
+ margin-left: 10em;
+ background-color: #2a1800;
+ margin-bottom: 1em;
+
+
+
+
+}
+
+#comp h1 {
+  font-size: 20px;
+  font-family: 'Barlow Semi Condensed extra bold', sans-serif;
+  margin-left: 3Em;
+  margin-bottom: 1em;
+
+}
+
+#portfolio {
+  justify-content: center;
+  display: flex;
+
+}
+h2{
+  color: black;
+  margin: 20px;
+  margin-left: 70px;
+}
+
+.portfolio-content-block {
+
+}
+
+.comp-section-content{
+  display: flex;
+  justify-content: space-around;
+
+
+}
+.comp-section-content p {
+  display: flex;
+  text-align: justify; left: auto;
+}
+
+
+
+
+.comp-content {
+  margin: 20px;
+  width: auto;
+  background-color: #ffbd68;
+}
+
+.comp-content p {
+  padding: 1em;
+}
+
+.comp-content img {
+  width: 100%;
+}
+H3 {
+  color: #2a1800;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.comp-content a {
+  display: block;
+  padding: 1em;
+  float: right;
+}
