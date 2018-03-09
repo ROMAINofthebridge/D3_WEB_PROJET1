@@ -1,5 +1,31 @@
+.char1 {
+  font-size: 3em;
+}
+.char8 {
+  font-size: 2em;
+}
+.char10 {
+  font-size: 2em;
+}
+.char15 {
+  font-size: 2em:
+
+
+  }
+  .char5 {
+    font-size: 2em;
+  }
+  .char12 {
+    font-size: 2em;
+  }
+  .char18 {
+    font-size: 2em:
+}
+
+
+
 body{
-  font-family: 'Barlow Semi Condensed blod', sans-serif;
+  font-family: 'avenir medium', sans-serif;
   color : white;
 }
 
@@ -13,12 +39,6 @@ header{
   justify-content: center;
   align-items: center;
   background-attachment: fixed;
-
-
-
-
-
-
 
 }
 
@@ -58,6 +78,7 @@ font-size: 4em ;
 
 
 }
+
 
 .bio-content-block p {
 
@@ -107,10 +128,9 @@ h2{
 
 
 
-
 .comp-content {
   margin: 20px;
-  width: auto;
+flex : 1 0 200px;
   background-color: #ffbd68;
 }
 
@@ -131,4 +151,57 @@ H3 {
   display: block;
   padding: 1em;
   float: right;
+}
+.char6:hover {
+  color: black;
+  display: inline-block;
+  transform: rotate(-10deg);
+  }
+  .char2:hover {
+    display: inline-block;
+    transform :rotate(-25deg);
+    font-size: 4em;
+    color: black;
+    font-family: 'impact',sans-serif;
+}
+.char9:hover {
+  display: inline-block;
+  transform: rotate(-25deg);
+font-family: 'impact',sans-serif;
+}
+.char4:hover {
+  display: inline-block;
+  transform :rotate(-25deg);
+  font-size: 4em;
+  color: black;
+  font-family: 'impact',sans-serif;
+}
+.char11:hover {
+  display: inline-block;
+  transform :rotate(-25deg);
+  font-size: 4em;
+  color: black;
+}
+.char12:hover {
+    display: inline-block;
+    transform :rotate(-25deg);
+    font-size: 4em;
+    color: black;
+    font-family: 'impact',sans-serif;
+}
+.char16:hover {
+    display: inline-block;
+    transform :rotate(-25deg);
+    font-size: 4em;
+    color: black;
+}
+.char17:hover {
+    transform :rotate(-25deg);
+    color: black;
+    font-family: 'impact',sans-serif;
+}
+
+.char18:hover {
+transform :rotate(-25deg);
+    color: black;
 }
